@@ -1,3 +1,2 @@
 # solid-waste-dataset
-This is a solid point cloud dataset
-这个是固废的点云数据集
+This is a solid cloud data set, and more data will be uploaded later
